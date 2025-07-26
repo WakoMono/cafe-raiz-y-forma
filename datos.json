@@ -35,8 +35,8 @@
             {
 				"nombre": "Flores Artificiales",
 				"precio_anterior": "499.99",
-				"precio": "429.99",
-				"imagen": "./imagenes/portada-producto-1.png",
+				"precio": "249.99",
+				"imagen": "./imagenes/producto-1.png",
 				"categoria": "Decoración"
 			},
 			{
