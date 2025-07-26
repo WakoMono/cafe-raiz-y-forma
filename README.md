@@ -61,7 +61,7 @@ Selección artesanal para deleitar tus sentidos.
 <br>
 
 <p align="center">
-<img src="./imagenes/ornamental-2.png" alt="Divisor ornamental" width="500">
+<img src="" alt="" width="500">
 </p>
 
 <h2 align="center" id="nuestros-granos">🌱 N U E S T R O S · G R A N O S 🌱</h2>
@@ -71,14 +71,14 @@ Viaja por el mundo a través de nuestros sabores.
 </p>
 
 <p align="center">
-<img src="./imagenes/bolsa-cafe.png" alt="Imagen de granos de café en un saco" width="600">
+<img src="" alt="" width="600">
 </p>
 
 TEPIC, NAYARIT 🇲🇽 <br>
 PLAZA AMERICAS - LOCAL "3"
 
 <p align="center">
-<img src="./imagenes/ornamental-2.png" alt="Divisor ornamental" width="500">
+<img src="" alt="" width="500">
 </p>
 
 <h2 align="center" id="encuéntranos">📍 E N C U É N T R A N O S 📍</h2>
@@ -92,11 +92,11 @@ Tu oasis en la ciudad te espera.
 </p>
 
 <p align="center">
-<strong>Calle de los Sueños 42, Barrio Mágico, Ciudad Capital.</strong>
+<strong>Plaza Americas, Local 3, Tepic, Nayarit.</strong>
 <br><br>
 <strong>HORARIOS</strong><br>
-Lunes a Sábado: <strong>8:00 AM - 8:00 PM</strong><br>
-Domingos: <strong>9:00 AM - 6:00 PM</strong>
+Lunes a Sábado: <strong>7:00 AM - 7:00 PM</strong><br>
+Domingos: <strong>7:00 AM - 2:00 PM</strong>
 </p>
 
 <br>
@@ -108,7 +108,7 @@ Domingos: <strong>9:00 AM - 6:00 PM</strong>
 <h2 align="center" id="únete-a-la-comunidad">💬 Ú N E T E · A · L A · C O M U N I D A D 💬</h2>
 
 <p align="center">
-Comparte tu momento #AromaMistico y conecta con otros amantes del café.
+Comparte tu momento #Qahwasti y conecta con otros amantes del café.
 </p>
 
 <p align="center">
