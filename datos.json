@@ -4,27 +4,27 @@
             {
                 "nombre_producto": "Hogar de Estilo",
                 "nombre_categoria": "Decoracion",
-                "imagen": "./imagenes/portada-producto-1.jpg"
+                "imagen": "./imagenes/portada-producto-1.png"
             },
             {
                 "nombre_producto": "Silla Helen",
                 "nombre_categoria": "Decoracion",
-                "imagen": "./imagenes/portada-producto-2.jpg"
+                "imagen": "./imagenes/portada-producto-2.png"
             },
             {
                 "nombre_producto": "Jarron para Flores",
                 "nombre_categoria": "Decoracion",
-                "imagen": "./imagenes/portada-producto-3.jpg"
+                "imagen": "./imagenes/portada-producto-3.png"
             },
             {
                 "nombre_producto": "Huevos de Madera",
                 "nombre_categoria": "Decoracion",
-                "imagen": "./imagenes/portada-producto-4.jpg"
+                "imagen": "./imagenes/portada-producto-4.png"
             },
             {
                 "nombre_producto": "Mesa de Madera de Pino",
                 "nombre_categoria": "Mueble",
-                "imagen": "./imagenes/portada-producto-5.jpg"
+                "imagen": "./imagenes/portada-producto-5.png"
             }
         ],
         "acerca_de": {
