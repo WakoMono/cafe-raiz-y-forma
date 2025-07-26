@@ -34,7 +34,7 @@ Selección artesanal para deleitar tus sentidos.
 <table align="center">
 <tr>
 <td align="center">
-<img src="" alt="Ícono de taza de café" width="50"><br>
+<img src="./imagenes/icono-cafe.png" alt="Ícono de taza de café" width="50"><br>
 <strong>CAFÉS DE ORIGEN</strong><br>
 <small>Espresso, Americano, V60, Chemex</small>
 </td>
@@ -71,7 +71,7 @@ Viaja por el mundo a través de nuestros sabores.
 </p>
 
 <p align="center">
-<img src="" alt="Imagen de granos de café en un saco" width="600">
+<img src="/imagenes/portada-color2.png" alt="Imagen de granos de café en un saco" width="600">
 </p>
 
 OAXACA, MÉXICO 🇲🇽
