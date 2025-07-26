@@ -1,0 +1,103 @@
+{
+        "nombre_comercial": "Raíz & Forma",
+        "portada": [
+            {
+                "nombre_producto": "Hogar de Estilo",
+                "nombre_categoria": "Decoracion",
+                "imagen": "./imagenes/portada-producto-1.jpg"
+            },
+            {
+                "nombre_producto": "Silla Helen",
+                "nombre_categoria": "Decoracion",
+                "imagen": "./imagenes/portada-producto-2.jpg"
+            },
+            {
+                "nombre_producto": "Jarron para Flores",
+                "nombre_categoria": "Decoracion",
+                "imagen": "./imagenes/portada-producto-3.jpg"
+            },
+            {
+                "nombre_producto": "Huevos de Madera",
+                "nombre_categoria": "Decoracion",
+                "imagen": "./imagenes/portada-producto-4.jpg"
+            },
+            {
+                "nombre_producto": "Mesa de Madera de Pino",
+                "nombre_categoria": "Mueble",
+                "imagen": "./imagenes/portada-producto-5.jpg"
+            }
+        ],
+        "acerca_de": {
+            "nombre_tienda": "Tienda Raíz & Forma",
+            "descripcion": "Diseñamos y seleccionamos muebles con alma: funcionales, duraderos y con carácter propio. Nuestra pasión por los materiales nobles, como la madera maciza, se refleja en cada pieza que ofrecemos."
+        },
+        "productos": [
+            {
+				"nombre": "Flores Artificiales",
+				"precio_anterior": "499.99",
+				"precio": "429.99",
+				"imagen": "./imagenes/producto-1.jpg",
+				"categoria": "Decoración"
+			},
+			{
+				"nombre": "Deoración de Madera con Flor",
+				"precio_anterior": "299.99",
+				"precio": "249.99",
+				"imagen": "./imagenes/producto-2.jpg",
+				"categoria": "Decoración"
+			},
+			{
+				"nombre": "Cactus Artificial",
+				"precio_anterior": "89.99",
+				"precio": "74.99",
+				"imagen": "./imagenes/producto-3.jpg",
+				"categoria": "Decoración"
+			},
+			{
+				"nombre": "Jarrón Azul de Ceramica",
+				"precio_anterior": "599.99",
+				"precio": "519.99",
+				"imagen": "./imagenes/producto-4.jpg",
+				"categoria": "Decoración"
+			},
+			{
+				"nombre": "Mortero de Madera",
+				"precio_anterior": "399.99",
+				"precio": "349.99",
+				"imagen": "./imagenes/producto-5.jpg",
+				"categoria": "Decoración"
+			},
+			{
+				"nombre": "Silla Confort Madera",
+				"precio_anterior": "119.99",
+				"precio": "99.99",
+				"imagen": "./imagenes/producto-6.jpg",
+				"categoria": "Sillas"
+			},
+			{
+				"nombre": "Jarron de Cristal",
+				"precio_anterior": "459.99",
+				"precio": "399.99",
+				"imagen": "./imagenes/producto-7.jpg",
+				"categoria": "Decoración"
+			},
+			{
+				"nombre": "Lámpara Minimalista",
+				"precio_anterior": "199.99",
+				"precio": "159.99",
+				"imagen": "./imagenes/producto-8.jpg",
+				"categoria": "Lámparas"
+			}
+        ],
+        "derechos_reservados": "Todos los derechos reservados Raíz & Forma 2025.",
+		"botones_formulario": [
+			{
+				"titulo": "Quejas, dudas o sugerencias",
+				"url": "https://forms.gle/4y9z38c6SvaHfBb98"
+			},
+			{
+				"titulo": "¿Tuvo algún inconveniente con su pedido?",
+				"url": "https://forms.gle/dhvmDEP1ioJm8HWN9"
+			}
+		]
+    }
