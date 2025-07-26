@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/M8A4k4G.png" alt="Logo circular con grano de café" width="150">
+<img src="./imagenes/portada-color1.png" alt="Logo circular con grano de café" width="150">
 </p>
 
 <h1 align="center">Qahwasti</h1>
