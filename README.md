@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/M8A4k4G.png" alt="Logo circular con grano de café" width="150">
 </p>
 
-<h1 align="center">Aroma Místico</h1>
+<h1 align="center">Qahwasti</h1>
 
 <p align="center">
 <strong>Tu santuario diario de café y calma.</strong>
@@ -16,12 +16,12 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/5J2Zz3k.png" alt="Divisor ornamental" width="500">
+<img src="./imagenes/portada-producto-1.png" alt="Divisor ornamental" width="500">
 </p>
 
 <br>
 
-En Aroma Místico, creemos que el café es más que una bebida; es un ritual. Un momento de pausa en tu día para reconectar y recargar energías. Por eso, nos dedicamos a crear la taza perfecta en un ambiente que inspira tranquilidad y creatividad.
+En Qahwasti, creemos que el café es más que una bebida; es un ritual. Un momento de pausa en tu día para reconectar y recargar energías. Por eso, nos dedicamos a crear la taza perfecta en un ambiente que inspira tranquilidad y creatividad.
 
 <br>
 
@@ -34,24 +34,24 @@ Selección artesanal para deleitar tus sentidos.
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://i.imgur.com/KCp5T64.png" alt="Ícono de taza de café" width="50"><br>
+<img src="" alt="Ícono de taza de café" width="50"><br>
 <strong>CAFÉS DE ORIGEN</strong><br>
 <small>Espresso, Americano, V60, Chemex</small>
 </td>
 <td align="center">
-<img src="https://i.imgur.com/T0f5S4b.png" alt="Ícono de latte" width="50"><br>
+<img src="" alt="Ícono de latte" width="50"><br>
 <strong>BEBIDAS CON LECHE</strong><br>
 <small>Latte, Cappuccino, Flat White, Macchiato</small>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://i.imgur.com/R3fL7aO.png" alt="Ícono de croissant" width="50"><br>
+<img src="" alt="Ícono de croissant" width="50"><br>
 <strong>REPOSTERÍA</strong><br>
 <small>Croissants, Roles de Canela, Pasteles de Temporada</small>
 </td>
 <td align="center">
-<img src="https://i.imgur.com/sSg3g9E.png" alt="Ícono de té" width="50"><br>
+<img src="" alt="Ícono de té" width="50"><br>
 <strong>OTRAS INFUSIONES</strong><br>
 <small>Té Matcha, Golden Milk, Tisanas Herbales</small>
 </td>
@@ -61,7 +61,7 @@ Selección artesanal para deleitar tus sentidos.
 <br>
 
 <p align="center">
-<img src="https://i.imgur.com/5J2Zz3k.png" alt="Divisor ornamental" width="500">
+<img src="" alt="Divisor ornamental" width="500">
 </p>
 
 <h2 align="center" id="nuestros-granos">🌱 N U E S T R O S · G R A N O S 🌱</h2>
@@ -71,7 +71,7 @@ Viaja por el mundo a través de nuestros sabores.
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/vA4GzS1.png" alt="Imagen de granos de café en un saco" width="600">
+<img src="" alt="Imagen de granos de café en un saco" width="600">
 </p>
 
 OAXACA, MÉXICO 🇲🇽
@@ -101,7 +101,7 @@ Ideal para: Amantes de los cafés exóticos y florales.
 <br>
 
 <p align="center">
-<img src="https://i.imgur.com/5J2Zz3k.png" alt="Divisor ornamental" width="500">
+<img src="" alt="Divisor ornamental" width="500">
 </p>
 
 <h2 align="center" id="encuéntranos">📍 E N C U É N T R A N O S 📍</h2>
@@ -111,7 +111,7 @@ Tu oasis en la ciudad te espera.
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/bO6y6qA.png" alt="Foto del interior de la cafetería con plantas" width="600">
+<img src="" alt="Foto del interior de la cafetería con plantas" width="600">
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@ Domingos: <strong>9:00 AM - 6:00 PM</strong>
 <br>
 
 <p align="center">
-<img src="https://i.imgur.com/5J2Zz3k.png" alt="Divisor ornamental" width="500">
+<img src="" alt="Divisor ornamental" width="500">
 </p>
 
 <h2 align="center" id="únete-a-la-comunidad">💬 Ú N E T E · A · L A · C O M U N I D A D 💬</h2>
