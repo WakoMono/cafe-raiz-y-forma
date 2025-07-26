@@ -64,23 +64,6 @@ Selección artesanal para deleitar tus sentidos.
 <img src="" alt="" width="500">
 </p>
 
-<h2 align="center" id="nuestros-granos">🌱 N U E S T R O S · G R A N O S 🌱</h2>
-
-<p align="center">
-Viaja por el mundo a través de nuestros sabores.
-</p>
-
-<p align="center">
-<img src="" alt="" width="600">
-</p>
-
-TEPIC, NAYARIT 🇲🇽 <br>
-PLAZA AMERICAS - LOCAL "3"
-
-<p align="center">
-<img src="" alt="" width="500">
-</p>
-
 <h2 align="center" id="encuéntranos">📍 E N C U É N T R A N O S 📍</h2>
 
 <p align="center">
