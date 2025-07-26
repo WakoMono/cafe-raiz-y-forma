@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="./imagenes/portada-producto-1.png" alt="Divisor ornamental" width="500">
+<img src="" alt="" width="500">
 </p>
 
 <br>
@@ -39,19 +39,19 @@ Selección artesanal para deleitar tus sentidos.
 <small>Espresso, Americano, V60, Chemex</small>
 </td>
 <td align="center">
-<img src="" alt="Ícono de latte" width="50"><br>
+<img src="./imagenes/icono-latte.png" alt="Ícono de latte" width="50"><br>
 <strong>BEBIDAS CON LECHE</strong><br>
 <small>Latte, Cappuccino, Flat White, Macchiato</small>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="" alt="Ícono de croissant" width="50"><br>
+<img src="./imagenes/icono-croissant.png" alt="Ícono de croissant" width="50"><br>
 <strong>REPOSTERÍA</strong><br>
 <small>Croissants, Roles de Canela, Pasteles de Temporada</small>
 </td>
 <td align="center">
-<img src="" alt="Ícono de té" width="50"><br>
+<img src="./imagenes/icono-te.png" alt="Ícono de té" width="50"><br>
 <strong>OTRAS INFUSIONES</strong><br>
 <small>Té Matcha, Golden Milk, Tisanas Herbales</small>
 </td>
@@ -61,7 +61,7 @@ Selección artesanal para deleitar tus sentidos.
 <br>
 
 <p align="center">
-<img src="" alt="Divisor ornamental" width="500">
+<img src="./imagenes/ornamental-2.png" alt="Divisor ornamental" width="500">
 </p>
 
 <h2 align="center" id="nuestros-granos">🌱 N U E S T R O S · G R A N O S 🌱</h2>
@@ -71,37 +71,14 @@ Viaja por el mundo a través de nuestros sabores.
 </p>
 
 <p align="center">
-<img src="/imagenes/portada-color2.png" alt="Imagen de granos de café en un saco" width="600">
+<img src="./imagenes/bolsa-cafe.png" alt="Imagen de granos de café en un saco" width="600">
 </p>
 
-OAXACA, MÉXICO 🇲🇽
-
-Perfil: Chocolate con leche, nuez tostada y un toque de naranja.
-
-Proceso: Lavado.
-
-Ideal para: Un espresso balanceado y dulce.
-
-TARRAZÚ, COSTA RICA 🇨🇷
-
-Perfil: Manzana roja, caramelo y cuerpo sedoso.
-
-Proceso: Honey.
-
-Ideal para: Métodos de filtrado que resaltan su acidez brillante.
-
-YIRGACHEFFE, ETIOPÍA 🇪🇹
-
-Perfil: Jazmín, limón Meyer y final a té negro.
-
-Proceso: Natural.
-
-Ideal para: Amantes de los cafés exóticos y florales.
-
-<br>
+TEPIC, NAYARIT 🇲🇽 <br>
+PLAZA AMERICAS - LOCAL "3"
 
 <p align="center">
-<img src="" alt="Divisor ornamental" width="500">
+<img src="./imagenes/ornamental-2.png" alt="Divisor ornamental" width="500">
 </p>
 
 <h2 align="center" id="encuéntranos">📍 E N C U É N T R A N O S 📍</h2>
@@ -111,7 +88,7 @@ Tu oasis en la ciudad te espera.
 </p>
 
 <p align="center">
-<img src="" alt="Foto del interior de la cafetería con plantas" width="600">
+<img src="" alt="" width="600">
 </p>
 
 <p align="center">
@@ -125,7 +102,7 @@ Domingos: <strong>9:00 AM - 6:00 PM</strong>
 <br>
 
 <p align="center">
-<img src="" alt="Divisor ornamental" width="500">
+<img src="" alt="" width="500">
 </p>
 
 <h2 align="center" id="únete-a-la-comunidad">💬 Ú N E T E · A · L A · C O M U N I D A D 💬</h2>
