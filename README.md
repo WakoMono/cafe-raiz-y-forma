@@ -109,5 +109,5 @@ Comparte tu momento #Qahwasti y conecta con otros amantes del café.
 
 <br>
 <p align="center">
-<small>Desarrollado con ☕ por [Tu Nombre/Tu Agencia]</small>
+<small>Desarrollado con ☕ por d&B Cafetería</small>
 </p>

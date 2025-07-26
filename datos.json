@@ -2,28 +2,28 @@
         "nombre_comercial": "Qahwasti",
         "portada": [
             {
-                "nombre_producto": "Hogar de Estilo",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Café con Leche",
+                "nombre_categoria": "Bebidas Calientes",
                 "imagen": "./imagenes/portada-producto-1.png"
             },
             {
-                "nombre_producto": "Silla Helen",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Matcha",
+                "nombre_categoria": "Té's",
                 "imagen": "./imagenes/portada-producto-2.png"
             },
             {
-                "nombre_producto": "Jarron para Flores",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Frappuccino",
+                "nombre_categoria": "Bebidas Frias",
                 "imagen": "./imagenes/portada-producto-3.png"
             },
             {
-                "nombre_producto": "Huevos de Madera",
-                "nombre_categoria": "Decoracion",
+                "nombre_producto": "Té de Limon",
+                "nombre_categoria": "Té's",
                 "imagen": "./imagenes/portada-producto-4.png"
             },
             {
-                "nombre_producto": "Mesa de Madera de Pino",
-                "nombre_categoria": "Mueble",
+                "nombre_producto": "Expreso",
+                "nombre_categoria": "Bebidas Calientes",
                 "imagen": "./imagenes/portada-producto-5.png"
             }
         ],
