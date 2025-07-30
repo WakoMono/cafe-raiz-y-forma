@@ -33,60 +33,60 @@
         },
         "productos": [
             {
-				"nombre": "Qahwa Grano",
+				"nombre": "Conilon",
 				"precio_anterior": "499.99",
 				"precio": "249.99",
 				"imagen": "./imagenes/producto-1.png",
-				"categoria": "Decoración"
+				"categoria": "Robusta"
 			},
 			{
-				"nombre": "Qahwa Grano",
+				"nombre": "Bourbon",
 				"precio_anterior": "299.99",
 				"precio": "249.99",
 				"imagen": "./imagenes/producto-2.png",
-				"categoria": "Decoración"
+				"categoria": "Cafe Arabica"
 			},
 			{
-				"nombre": "Qahwa Grano",
+				"nombre": "Pacamara",
 				"precio_anterior": "89.99",
 				"precio": "74.99",
 				"imagen": "./imagenes/producto-3.png",
-				"categoria": "Decoración"
+				"categoria": "Cafe Arabica"
 			},
 			{
-				"nombre": "Qahwa Grano",
+				"nombre": "Liberica",
 				"precio_anterior": "599.99",
 				"precio": "519.99",
 				"imagen": "./imagenes/producto-4.png",
-				"categoria": "Decoración"
+				"categoria": "Cafe Liberiano"
 			},
 			{
-				"nombre": "Qahwa Grano",
+				"nombre": "Sin Tostar",
 				"precio_anterior": "399.99",
 				"precio": "349.99",
 				"imagen": "./imagenes/producto-5.png",
-				"categoria": "Decoración"
+				"categoria": "Tostados"
 			},
 			{
-				"nombre": "Qahwa Grano",
+				"nombre": "Tostadura Mediana",
 				"precio_anterior": "119.99",
 				"precio": "99.99",
 				"imagen": "./imagenes/producto-6.png",
-				"categoria": "Sillas"
+				"categoria": "Tostados"
 			},
 			{
-				"nombre": "Qahwa Grano",
+				"nombre": "Doble Tostadura",
 				"precio_anterior": "459.99",
 				"precio": "399.99",
 				"imagen": "./imagenes/producto-7.png",
-				"categoria": "Decoración"
+				"categoria": "Tostados"
 			},
 			{
-				"nombre": "Qahwa Grano",
+				"nombre": "Tostadura Expresso",
 				"precio_anterior": "199.99",
 				"precio": "159.99",
 				"imagen": "./imagenes/producto-8.png",
-				"categoria": "Lámparas"
+				"categoria": "Tostados"
 			}
         ],
         "derechos_reservados": "Todos los derechos reservados Qahwasti 2025.",
