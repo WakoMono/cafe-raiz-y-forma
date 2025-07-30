@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://github.com/your-username/your-repo#encuéntranos">📍 Encuéntranos</a> •
-<a href="https://github.com/your-username/your-repo#únete-a-la-comunidad">💬 Comunidad</a>
+<a href="https://drive.google.com/file/d/1txO3qKr8d2ADbTj5svNoNvdnoHLCg5w_/view?usp=sharing">📜 Catálogo</a>
 </p>
 
 <p align="center">
