@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/your-username/your-repo#carta">📜 Carta</a> •
-<a href="https://github.com/your-username/your-repo#nuestros-granos">🌱 Nuestros Granos</a> •
 <a href="https://github.com/your-username/your-repo#encuéntranos">📍 Encuéntranos</a> •
 <a href="https://github.com/your-username/your-repo#únete-a-la-comunidad">💬 Comunidad</a>
 </p>
@@ -24,42 +22,6 @@
 En Qahwasti, creemos que el café es más que una bebida; es un ritual. Un momento de pausa en tu día para reconectar y recargar energías. Por eso, nos dedicamos a crear la taza perfecta en un ambiente que inspira tranquilidad y creatividad.
 
 <br>
-
-<h2 align="center" id="carta">📜 N U E S T R A · C A R T A 📜</h2>
-
-<p align="center">
-Selección artesanal para deleitar tus sentidos.
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="./imagenes/icono-cafe.png" alt="Ícono de taza de café" width="50"><br>
-<strong>CAFÉS DE ORIGEN</strong><br>
-<small>Espresso, Americano, V60, Chemex</small>
-</td>
-<td align="center">
-<img src="./imagenes/icono-latte.png" alt="Ícono de latte" width="50"><br>
-<strong>BEBIDAS CON LECHE</strong><br>
-<small>Latte, Cappuccino, Flat White, Macchiato</small>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="./imagenes/icono-croissant.png" alt="Ícono de croissant" width="50"><br>
-<strong>REPOSTERÍA</strong><br>
-<small>Croissants, Roles de Canela, Pasteles de Temporada</small>
-</td>
-<td align="center">
-<img src="./imagenes/icono-te.png" alt="Ícono de té" width="50"><br>
-<strong>OTRAS INFUSIONES</strong><br>
-<small>Té Matcha, Golden Milk, Tisanas Herbales</small>
-</td>
-</tr>
-</table>
-
-<br>
-
 
 <p align="center">
 <img src="" alt="" width="500">
