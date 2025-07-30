@@ -29,7 +29,7 @@
         ],
         "acerca_de": {
             "nombre_tienda": "Tienda Qahwasti - d&B Cafetería",
-            "descripcion": "Diseñamos y seleccionamos muebles con alma: funcionales, duraderos y con carácter propio. Nuestra pasión por los materiales nobles, como la madera maciza, se refleja en cada pieza que ofrecemos."
+            "descripcion": "Los mejores Granos de Café a la palma de tu mano"
         },
         "productos": [
             {
@@ -37,7 +37,7 @@
 				"precio_anterior": "499.99",
 				"precio": "249.99",
 				"imagen": "./imagenes/producto-1.png",
-				"categoria": "Robusta"
+				"categoria": "Cafe Robusta"
 			},
 			{
 				"nombre": "Bourbon",
