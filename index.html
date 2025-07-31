@@ -111,7 +111,11 @@
                 <section class="section product">
                     <div class="container">
                         <div class="title-wrapper">
-                            <h2 class="h2 section-title">Qahwasti Productos</h2>
+                            <div class="h2 section-title">
+                                <h2>Qahwasti Productos</h2>
+                                <a href="https://drive.google.com/file/d/1txO3qKr8d2ADbTj5svNoNvdnoHLCg5w_/view?usp=sharing">Descargar Catálogo</a>
+                            </div>
+        
                             <ul class="filter-btn-list">
                                 <li v-for="(categoria, index) in categorias" :key="index" class="filter-btn-item">
                                     <button 
@@ -167,6 +171,7 @@
                         <div class="button-container">
                             <a target="_blank" :href="datos.botones_formulario[0]?.url" class="btn-primary">{{ datos.botones_formulario[0]?.titulo }}</a>
                             <a target="_blank" :href="datos.botones_formulario[1]?.url" class="btn-primary">{{ datos.botones_formulario[1]?.titulo }}</a>
+
                         </div>
                     </div>
                 </section>
